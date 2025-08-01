@@ -1,0 +1,14 @@
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/bin/Debug/net9.0/console-test-app
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/bin/Debug/net9.0/console-test-app.deps.json
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/bin/Debug/net9.0/console-test-app.runtimeconfig.json
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/bin/Debug/net9.0/console-test-app.dll
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/bin/Debug/net9.0/console-test-app.pdb
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.AssemblyInfoInputs.cache
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.AssemblyInfo.cs
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.csproj.CoreCompileInputs.cache
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.dll
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/refint/console-test-app.dll
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.pdb
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.genruntimeconfig.cache
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/ref/console-test-app.dll
