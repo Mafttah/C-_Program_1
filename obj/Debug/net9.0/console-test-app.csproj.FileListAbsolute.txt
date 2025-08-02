@@ -12,3 +12,4 @@
 /Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.pdb
 /Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.genruntimeconfig.cache
 /Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/ref/console-test-app.dll
+/Users/borasaglam/Desktop/YazilimEgitim/Projects/C#/Lesson1/console-test-app/obj/Debug/net9.0/console-test-app.sourcelink.json

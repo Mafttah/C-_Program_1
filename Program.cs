@@ -28,20 +28,12 @@ Console.WriteLine($"İşlem 1 in işleminin sonucu: {islem1}");
 
 Console.WriteLine($"İşlem 2 in işleminin sonucu: {islem2}");
 
-
-Console.Write($"Adınız: ");
 string name = "Bora";
 
-
-Console.Write("Soyadınız: ");
 string surname = "Saglam";
 
-
-Console.Write("Yaşınız: ");
 int yas = 21;
 
-
-Console.Write("Yaşadığınız il: ");
 string yasadiginiz_il = "Balıkesir";
 
 
