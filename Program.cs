@@ -28,6 +28,7 @@ Console.WriteLine($"İşlem 1 in işleminin sonucu: {islem1}");
 
 Console.WriteLine($"İşlem 2 in işleminin sonucu: {islem2}");
 
+
 string name = "Bora";
 
 string surname = "Saglam";
