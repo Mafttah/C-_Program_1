@@ -30,19 +30,19 @@ Console.WriteLine($"İşlem 2 in işleminin sonucu: {islem2}");
 
 
 Console.Write($"Adınız: ");
-string name = Console.ReadLine();
+string name = "Bora";
 
 
 Console.Write("Soyadınız: ");
-string surname = Console.ReadLine();
+string surname = "Saglam";
 
 
 Console.Write("Yaşınız: ");
-string yas = Console.ReadLine();
+int yas = 21;
 
 
 Console.Write("Yaşadığınız il: ");
-string yasadiginiz_il = Console.ReadLine();
+string yasadiginiz_il = "Balıkesir";
 
 
 
