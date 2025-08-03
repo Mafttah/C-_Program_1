@@ -15,6 +15,8 @@ int islem1 = 8 * 8;
 
 int islem2 = 8 * 8 * 8;
 
+int islem3 = sayi1 % sayi3;
+
 
 Console.WriteLine($"Toplam işleminin sonucu: {toplam}");
 
@@ -26,7 +28,9 @@ Console.WriteLine($"Bölme işleminin sonucu: {bolme}");
 
 Console.WriteLine($"İşlem 1 in işleminin sonucu: {islem1}");
 
-Console.WriteLine($"İşlem 2 in işleminin sonucu: {islem2}");
+Console.WriteLine($"İşlem 2 nin işleminin sonucu: {islem2}");
+
+Console.WriteLine($"İşlem 3 ün işleminin sonucu: {islem3}");
 
 string name, surname, yas, yasadiginiz_il;
 
