@@ -32,7 +32,7 @@ Console.WriteLine($"İşlem 2 nin işleminin sonucu: {islem2}");
 
 Console.WriteLine($"İşlem 3 ün işleminin sonucu: {islem3}");
 
-string name, surname, yas, yasadiginiz_il;
+string name, surname, yas, yasadiginiz_il, universite, telefon_numarası;
 
 Console.WriteLine("Adınız: ");
 name = Console.ReadLine();
@@ -46,7 +46,13 @@ yas = Console.ReadLine();
 Console.WriteLine("Yaşadığınız il: ");
 yasadiginiz_il = Console.ReadLine();
 
-Console.WriteLine($"Adınız: " + name + ", " + "Soyadınız: " + surname + ", " + "Yaşınız: " + yas + ", " + "Yaşadığınız il: " + yasadiginiz_il);
+Console.WriteLine("Üniversitenizin adı: ");
+universite = Console.ReadLine();
+
+Console.WriteLine("Telefon numaranız: ");
+telefon_numarası = Console.ReadLine();
+
+Console.WriteLine($"Adınız: " + name + ", " + "Soyadınız: " + surname + ", " + "Yaşınız: " + yas + ", " + "Yaşadığınız il: " + yasadiginiz_il + ", " + "Üniversitenizin adı: " + ", " + universite + ", " + "Telefon numaranız: " + telefon_numarası);
 
 
 
