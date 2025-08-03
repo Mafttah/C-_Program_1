@@ -28,21 +28,23 @@ Console.WriteLine($"İşlem 1 in işleminin sonucu: {islem1}");
 
 Console.WriteLine($"İşlem 2 in işleminin sonucu: {islem2}");
 
+string name, surname, yas, yasadiginiz_il;
 
-string name = "Bora";
+Console.WriteLine("Adınız: ");
+name = Console.ReadLine();
 
-string surname = "Saglam";
+Console.WriteLine("Soyadınız: ");
+surname = Console.ReadLine();
 
-int yas = 21;
+Console.WriteLine("Yaşınız: ");
+yas = Console.ReadLine();
 
-string yasadiginiz_il = "Balıkesir";
+Console.WriteLine("Yaşadığınız il: ");
+yasadiginiz_il = Console.ReadLine();
+
+Console.WriteLine($"Adınız: " + name + ", " + "Soyadınız: " + surname + ", " + "Yaşınız: " + yas + ", " + "Yaşadığınız il: " + yasadiginiz_il);
 
 
-
-Console.WriteLine($"Adınız: " + name);
-Console.WriteLine($"Soyadınız: " + surname);
-Console.WriteLine($"Yaşınız: " + yas);
-Console.WriteLine($"Yaşadığınız il: " + yasadiginiz_il);
 
 
 
